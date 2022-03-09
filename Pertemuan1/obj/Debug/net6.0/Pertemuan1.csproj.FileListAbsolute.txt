@@ -1,0 +1,15 @@
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\Pertemuan1.csproj.AssemblyReference.cache
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\Pertemuan1.GeneratedMSBuildEditorConfig.editorconfig
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\Pertemuan1.AssemblyInfoInputs.cache
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\Pertemuan1.AssemblyInfo.cs
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\Pertemuan1.csproj.CoreCompileInputs.cache
+S:\CSharp\Pertemuan1\Pertemuan1\bin\Debug\net6.0\Pertemuan1.exe
+S:\CSharp\Pertemuan1\Pertemuan1\bin\Debug\net6.0\Pertemuan1.deps.json
+S:\CSharp\Pertemuan1\Pertemuan1\bin\Debug\net6.0\Pertemuan1.runtimeconfig.json
+S:\CSharp\Pertemuan1\Pertemuan1\bin\Debug\net6.0\Pertemuan1.dll
+S:\CSharp\Pertemuan1\Pertemuan1\bin\Debug\net6.0\Pertemuan1.pdb
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\Pertemuan1.dll
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\refint\Pertemuan1.dll
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\Pertemuan1.pdb
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\Pertemuan1.genruntimeconfig.cache
+S:\CSharp\Pertemuan1\Pertemuan1\obj\Debug\net6.0\ref\Pertemuan1.dll
