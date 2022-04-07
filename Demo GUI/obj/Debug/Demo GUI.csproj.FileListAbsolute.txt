@@ -1,0 +1,11 @@
+D:\code\C#\Kelas_PBO\Demo GUI\bin\Debug\Demo GUI.exe.config
+D:\code\C#\Kelas_PBO\Demo GUI\bin\Debug\Demo GUI.exe
+D:\code\C#\Kelas_PBO\Demo GUI\bin\Debug\Demo GUI.pdb
+D:\code\C#\Kelas_PBO\Demo GUI\obj\Debug\Demo GUI.csproj.AssemblyReference.cache
+D:\code\C#\Kelas_PBO\Demo GUI\obj\Debug\Demo GUI.csproj.SuggestedBindingRedirects.cache
+D:\code\C#\Kelas_PBO\Demo GUI\obj\Debug\Demo_GUI.Properties.Resources.resources
+D:\code\C#\Kelas_PBO\Demo GUI\obj\Debug\Demo GUI.csproj.GenerateResource.cache
+D:\code\C#\Kelas_PBO\Demo GUI\obj\Debug\Demo GUI.csproj.CoreCompileInputs.cache
+D:\code\C#\Kelas_PBO\Demo GUI\obj\Debug\Demo GUI.exe
+D:\code\C#\Kelas_PBO\Demo GUI\obj\Debug\Demo GUI.pdb
+D:\code\C#\Kelas_PBO\Demo GUI\obj\Debug\Demo_GUI.Demo.resources

@@ -1,0 +1,15 @@
+D:\code\C#\Kelas_PBO\TUGAS\bin\Debug\net6.0\TUGAS.exe
+D:\code\C#\Kelas_PBO\TUGAS\bin\Debug\net6.0\TUGAS.deps.json
+D:\code\C#\Kelas_PBO\TUGAS\bin\Debug\net6.0\TUGAS.runtimeconfig.json
+D:\code\C#\Kelas_PBO\TUGAS\bin\Debug\net6.0\TUGAS.dll
+D:\code\C#\Kelas_PBO\TUGAS\bin\Debug\net6.0\TUGAS.pdb
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\TUGAS.csproj.AssemblyReference.cache
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\TUGAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\TUGAS.AssemblyInfoInputs.cache
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\TUGAS.AssemblyInfo.cs
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\TUGAS.csproj.CoreCompileInputs.cache
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\TUGAS.dll
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\refint\TUGAS.dll
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\TUGAS.pdb
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\TUGAS.genruntimeconfig.cache
+D:\code\C#\Kelas_PBO\TUGAS\obj\Debug\net6.0\ref\TUGAS.dll
