@@ -1,0 +1,8 @@
+D:\code\C#\Kelas_PBO\Week12\bin\Debug\Week12.exe.config
+D:\code\C#\Kelas_PBO\Week12\bin\Debug\Week12.exe
+D:\code\C#\Kelas_PBO\Week12\bin\Debug\Week12.pdb
+D:\code\C#\Kelas_PBO\Week12\obj\Debug\Week12.csproj.AssemblyReference.cache
+D:\code\C#\Kelas_PBO\Week12\obj\Debug\Week12.csproj.SuggestedBindingRedirects.cache
+D:\code\C#\Kelas_PBO\Week12\obj\Debug\Week12.csproj.CoreCompileInputs.cache
+D:\code\C#\Kelas_PBO\Week12\obj\Debug\Week12.exe
+D:\code\C#\Kelas_PBO\Week12\obj\Debug\Week12.pdb
